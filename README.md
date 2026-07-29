@@ -226,7 +226,7 @@ pip install -r requirements.txt
 - Automate hyperparameter tuning using Optuna.
 - Build an interactive dashboard for ticket price analysis.
 
-## 👨‍💻 Author
+## Author
 
 **Shrimant Rana**
 
